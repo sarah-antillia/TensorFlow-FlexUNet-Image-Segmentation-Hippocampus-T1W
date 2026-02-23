@@ -314,7 +314,7 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <h3>
 References
 </h3>
-<b>1. DATASET OF MAGNETIC RESONANCE IMAGES OF NONEPILEPTIC SUBJECTS AND TEMPORAL LOBE EPILEPSY PATIENTS <br>
+<b>1. DATASET OF MAGNETIC RESONANCE IMAGES OF NONEPILEPTIC SUBJECTS AND TEMPORAL LOBE EPILEPSY PATIENTS 
 FOR VALIDATION OF HIPPOCAMPAL SEGMENTATION TECHNIQUES</b><br>
 Kourosh Jafari-Khouzani, Kost V Elisevich, Suresh Patel, Hamid Soltanian-Zadeh <br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4501402/">
